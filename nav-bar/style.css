@@ -1,0 +1,28 @@
+.logo-img{
+    height: 50px;
+}
+.nav-main{
+    background-color: #9461fb !important;
+}
+li{
+    font-size: 20px;  
+}
+a{
+    color: rgb(231, 231, 231) !important;
+}
+a:hover{
+    color: rgb(255, 255, 255) !important;
+}
+.box{
+    position: relative;
+    right: 600px;
+    height: 50px;
+    width: 300px;
+}
+.btn{
+    position: relative;
+    right: 600px;
+    height: 40px;
+    width: 70px;
+    top: 5px;
+}
