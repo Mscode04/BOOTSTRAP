@@ -1,0 +1,28 @@
+Bootstrap is a popular front-end framework for developing responsive and mobile-first websites. It includes HTML, CSS, and JavaScript components to streamline the process of creating modern web pages.
+
+Key Features of Bootstrap 4:
+
+Responsive Design:
+
+Built with a mobile-first approach, ensuring web pages look good on all devices, from desktops to smartphones.
+Utilizes a responsive grid system for layout.
+Grid System:
+
+Based on a 12-column layout.
+Allows for complex layouts with a simple structure using rows and columns.
+Components:
+
+Includes a variety of reusable UI components such as navigation bars, buttons, modals, carousels, and more.
+Components are customizable and extensible.
+Utilities:
+
+Provides numerous utility classes to control spacing, alignment, colors, and more.
+Helps in quickly applying styles without writing custom CSS.
+Customization:
+
+Easy to customize by overriding Sass variables and creating custom themes.
+Modular design allows for including only the needed components.
+JavaScript Plugins:
+
+Includes JavaScript plugins for additional interactivity, such as tooltips, popovers, and modal windows.
+Built on jQuery for ease of use.
